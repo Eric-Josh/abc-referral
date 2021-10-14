@@ -1,6 +1,6 @@
 ## Abc Referral
 
-# Installation
+## Installation
 
 - Clone Repository
     > `git clone https://github.com/Eric-Josh/abc-referral`
